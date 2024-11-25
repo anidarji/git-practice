@@ -24,4 +24,11 @@ a {
   text-decoration: none;
 }
 
+li a {
+  color: #ffffff;
+}
+li a:hover {
+  color: #000000;
+}
+
 /*# sourceMappingURL=style.css.map */
